@@ -1,0 +1,30 @@
+{
+  "name": "portfolio-css-grid",
+  "version": "1.0.0",
+  "description": "Remake of portfolio site with CSS Grid and Flexbox.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lindseyolson/portfolio-css-grid.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lindseyolson/portfolio-css-grid/issues"
+  },
+  "homepage": "https://github.com/lindseyolson/portfolio-css-grid#readme",
+  "dependencies": {
+    "angular-route": "^1.6.6",
+    "body-parser": "^1.18.2",
+    "browser-sync": "^2.18.13",
+    "express": "^4.16.2",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-clean-css": "^3.9.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0"
+  }
+}
